@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj": {}
+    "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj": {
+    "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj",
+        "projectUniqueName": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj",
         "projectName": "rcis_ep2_task_three",
-        "projectPath": "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj",
+        "projectPath": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\rcis_ep2_task_three.csproj",
         "packagesPath": "C:\\Users\\Блюмба228Казан\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\obj\\",
+        "outputPath": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_three\\rcis_ep2_task_three\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Блюмба228Казан\\AppData\\Roaming\\NuGet\\NuGet.Config"

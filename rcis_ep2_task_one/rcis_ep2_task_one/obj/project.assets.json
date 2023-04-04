@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_one\\rcis_ep2_task_one\\rcis_ep2_task_one.csproj",
+      "projectUniqueName": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_one\\rcis_ep2_task_one\\rcis_ep2_task_one.csproj",
       "projectName": "rcis_ep2_task_one",
-      "projectPath": "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_one\\rcis_ep2_task_one\\rcis_ep2_task_one.csproj",
+      "projectPath": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_one\\rcis_ep2_task_one\\rcis_ep2_task_one.csproj",
       "packagesPath": "C:\\Users\\Блюмба228Казан\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Блюмба228Казан\\Documents\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_one\\rcis_ep2_task_one\\obj\\",
+      "outputPath": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_one\\rcis_ep2_task_one\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Блюмба228Казан\\AppData\\Roaming\\NuGet\\NuGet.Config"

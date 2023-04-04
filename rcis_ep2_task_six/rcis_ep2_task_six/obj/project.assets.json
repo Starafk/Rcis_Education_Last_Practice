@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ром4ик\\.nuget\\packages\\": {}
+    "C:\\Users\\Блюмба228Казан\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Разработка\\C#\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_six\\rcis_ep2_task_six\\rcis_ep2_task_six.csproj",
+      "projectUniqueName": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_six\\rcis_ep2_task_six\\rcis_ep2_task_six.csproj",
       "projectName": "rcis_ep2_task_six",
-      "projectPath": "D:\\Разработка\\C#\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_six\\rcis_ep2_task_six\\rcis_ep2_task_six.csproj",
-      "packagesPath": "C:\\Users\\Ром4ик\\.nuget\\packages\\",
-      "outputPath": "D:\\Разработка\\C#\\-RcisEducationPracticeTwo-_Калугин\\rcis_ep2_task_six\\rcis_ep2_task_six\\obj\\",
+      "projectPath": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_six\\rcis_ep2_task_six\\rcis_ep2_task_six.csproj",
+      "packagesPath": "C:\\Users\\Блюмба228Казан\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Блюмба228Казан\\Documents\\РКИС\\RcisEducationPracticeTwo_Калугин\\rcis_ep2_task_six\\rcis_ep2_task_six\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ром4ик\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Блюмба228Казан\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
